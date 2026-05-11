@@ -46,3 +46,4 @@ O dataset foi dividido entre treino e teste para que o modelo pudesse aprender e
 A performance do modelo foi avaliada utilizando a métrica de acurácia. 
 Além disso, adicionei novas frases, onde o modelo conseguiu classificar corretamente os comentários positivos e negativos, demonstrando sua capacidade de generalização.
 
+link do dataset: https://www.kaggle.com/datasets/luisfredgs/imdb-ptbr?resource=download
