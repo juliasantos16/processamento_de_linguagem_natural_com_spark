@@ -1,4 +1,5 @@
 PySpark NLP: From Sentiment Analysis to Machine Learning Pipeline
+
 Este projeto teve como objetivo realizar uma análise de sentimentos utilizando Processamento de Linguagem Natural (NLP) com PySpark, trabalhando com avaliações de filmes do banco de dados IMDB. Durante o desenvolvimento, foi construída toda a pipeline de preparação dos dados, transformação textual e treinamento de um modelo de Machine Learning capaz de identificar automaticamente se um comentário possui sentimento positivo ou negativo.
 
 O fluxo do projeto:
